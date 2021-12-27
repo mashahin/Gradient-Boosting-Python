@@ -3,10 +3,16 @@
 Implementation of Gradient Boosting Algorithms using:
 
 - GBM-Sklearn
-  - Classofication
+  - Classification
   - Regression
   - Effect of hyperparameters
   - Hyperparameter optimization with GridSearchCV
 - LightGBM
+  - Classification
+  - Regression
 - XGBoost
+  - Classification
+  - Regression
 - CatBoost
+  - Classification
+  - Regression
