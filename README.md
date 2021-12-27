@@ -1,5 +1,5 @@
 # Gradient Boosting
-Gradient boosting algorithms for classification and regression implemented with:
+Implementation of Gradient Boosting Algorithms for classification and regression using:
   * GBM-Sklearn
   * LightGBM
   * XGBoost
